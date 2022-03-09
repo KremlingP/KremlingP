@@ -3,4 +3,3 @@
 -->
 - 👋 Hi, I’m @KremlingP
 - 🔭 I’m currently studying cs
-- 🌱 I’m currently learning Spring Boot & Kotlin
